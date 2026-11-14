@@ -4,7 +4,9 @@ A responsive chat interface for connecting tutors and students. The demo include
 
 ## Live demo
 
-[Open the StudyPod chat demo](https://okeyodev.github.io/studypod-chat-module/chat-tutor.html)
+[Open the StudyPod chat demo tutor](https://okeyodev.github.io/studypod-chat-modules/chat-tutor.html)
+
+[Open the StudyPod chat demo student](https://okeyodev.github.io/studypod-chat-modules/chat-tutor.html)
 
 ## Preview
 
